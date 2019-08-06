@@ -13,7 +13,11 @@ external CSS file. If you open `index.html` in the browser (by either opening
 the file with Google Chrome or running `httpserver` on the Learn IDE), you will
 see basic HTML that has been provided. The website emulates a basic Real Estate
 website (the links on it have been disabled, we will be working with only the
+<<<<<<< HEAD
 basic `index.html` landing page).
+=======
+basic `index.html` landing page). 
+>>>>>>> solution
 
 As you can see, our basic page is rather lackluster. This is where you come in!
 You will be adding CSS, using selectors, to jazz the page up. All of our CSS
@@ -72,6 +76,7 @@ h1 {
 If you see your `<h1>` change to red, you've linked your stylesheet correctly!
 Don't forget to delete it once you have your link working.
 
+
 ## Deliverables
 
 For this exercise, we are going to be transforming our base HTML into a more
@@ -85,7 +90,11 @@ finished product whatever way works the best for you.
 
 **Note:** If you are having trouble finding the specific CSS property you need
 to get a specific visual outcome, use your Google-Fu with queries such as: "CSS
+<<<<<<< HEAD
 center text within div".
+=======
+center text within div". 
+>>>>>>> solution
 
 In following the guidelines, you should be referencing the `index.html` to find
 the appropriate tags/IDs that we will use as selectors in our `style.css` file.
@@ -116,14 +125,22 @@ the browser.
 
 - **Make our `#details` section horizontal**: The details section could go nicely as a footer to the page, instead of a vertical list. Change its `display` value to block and make sure each of the `<div>`s is `float`ing to the `left`.
 
+<<<<<<< HEAD
 - **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the page. All of them should have the same background color, centered text, and occupy 25% of the `width` of the bottom row (since we have 4 divs).
+=======
+- **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the page. All of them should have the same background color, centered text, and occupy 25% of the `width` of the bottom row (since we have 4 divs). 
+>>>>>>> solution
 
 
 ## Conclusion
 
 CSS allows many avenues to the same goal. The important take-away is to
 experiment and become familiar with the commonly used rules. This will enable
+<<<<<<< HEAD
 you to identify what properties will get you to which end result quickest.
+=======
+you to identify what properties will get you to which end result quickest. 
+>>>>>>> solution
 
 You will find that, even years into your career as a front end developer, you
 will be referencing basic CSS documentation. _This is to be expected!_. To be
